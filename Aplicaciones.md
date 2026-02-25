@@ -11,3 +11,6 @@ Impacto Visual en la Comunicación: En el ámbito del diseño gráfico y la publ
 
 ## Gráficos por Computadora en  Ciencia y Medicina: 
 Visualización de Datos y Simulaciones: En el ámbito científico y médico, los gráficos por computadora se utilizan para visualizar datos complejos, desde modelos moleculares hasta imágenes médicas. Además, las simulaciones visuales permiten comprender fenómenos biológicos y físicos de manera más accesible.
+
+# Bibliografia
+Aplicaciones de los gráficos por computadora. (s. f.). Saberpunto.com. https://saberpunto.com/tecnologia/aplicaciones-de-los-graficos-por-computadora/
