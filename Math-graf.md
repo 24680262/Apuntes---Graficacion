@@ -1,1 +1,7 @@
+# Aspectos matematicos de la graficacion
 
+La geometría fractal ocupa en cierta medida este vacío y puede usarse para diseñar fielmente desde la intrincada silueta de una simple hoja hasta la evolución del árbol.Primero para introducirnos al el mundo de los Fractales, lo primero que hay que contar son las palabras que dan inicio al libro "Fractals Everywhere" ("Fractales en todos Lados") de Michael F. Barnsley, uno de los pioneros y más importantes divulgadores e investigadores del tema:
+
+>"La geometría Fractal cambiará a fondo su visión de las cosas. Seguir leyendo es peligroso. Se arriesga a perder definitivamente la imagen inofensiva que tiene de nubes, bosques, galaxias, hojas, plumas, flores, rocas, montañas, tapices, y de muchas otras cosas. Jamás volverá a recuperar las interpretaciones de todos estos objetos que hasta ahora le eran familiares."
+
+Ésta geometria tiene su origen en el concepto de proceso iterativo introducido hace ya 300 años por Isaac Newton y Gottfried Leibniz. De forma esquemática, un proceso iterativo consta de: una unidad de entrada compuesta por un dato inicial. Esta unidad de entrada alimenta la unidad de proceso, cerebro pensante del proceso iterativo, que manipula la información recibida y produce un nuevo dato que constituye la unidad de salida. Este nuevo dato será posteriormente utilizado por la unidad de entrada para volver a alimentar la unidad de proceso, y así sucesivamente.
