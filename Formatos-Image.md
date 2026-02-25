@@ -18,3 +18,6 @@ Adobe ofrece, entre otros, el formato propietario PSD (Photoshop Document) para 
 - Formato BMP:
 BMP (Windows Bitmap) fue desarrollado para sistemas operativos Microsoft e IBM y publicado en 1990 con Windows 3.0 como formato de almacenamiento para mapas de bits con una profundidad de color de hasta 24 bits por píxel. El formato de imagen sin comprimir asigna a cada píxel un valor cromático, por lo que los archivos suelen ser muy grandes, motivo por el que el formato no es adecuado para su uso en páginas web.
 
+# Bibliografia
+Los formatos de imagen más importantes en Internet. (s. f.). IONOS. https://www.ionos.mx/digitalguide/paginas-web/diseno-web/cuales-son-los-formatos-de-imagen-mas-importantes/
+
